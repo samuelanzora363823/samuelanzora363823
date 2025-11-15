@@ -5,10 +5,9 @@
 
 ## 👨‍💻 Sobre Mí como Profesional
 
-Soy un desarrollador con experiencia en el stack **Full-Stack** y enfoque en **desarrollo móvil (Android y React Native)**.
+Soy un desarrollador con experiencia en el stack **Full-Stack** y enfoque en **desarrollo móvil y web**.
 
-Mi pasión reside en **[Menciona tu área preferida, ej: crear soluciones escalables con Node.js y bases de datos NoSQL]** y me entusiasma trabajar en proyectos que unan el frontend robusto con arquitecturas backend sólidas. Las áreas que más me interesan son: **[Área 1: ej. Cloud Computing (AWS)], [Área 2: ej. Desarrollo de APIs REST], y [Área 3: ej. Diseño UX/UI (Figma)]**.
-
+Mi pasión reside en **[crear soluciones escalables]** y me entusiasma trabajar en proyectos que unan el frontend robusto con arquitecturas backend sólidas.
 ---
 
 ## 🛠️ Tecnologías y Herramientas
