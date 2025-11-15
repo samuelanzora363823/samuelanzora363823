@@ -61,35 +61,28 @@ La siguiente es mi caja de herramientas técnicas, separada por categorías para
 
 ## 📚 Cursos y Certificaciones
 
-* **[Nombre de la Certificación, ej: AWS Certified Cloud Practitioner]** - [Institución o Plataforma] (Año de finalización)
-* **[Nombre del Curso, ej: Desarrollo de Apps con React Native]** - [Plataforma, ej: Udemy / Institución X] (Año)
-* **[Tu Título Académico, ej: Ingeniería en Sistemas Informáticos]** - [Nombre de la Universidad] (Año)
+* **Curso de JavaDeveloper - Kodigo (2025)
+* **Curso de desarrolo web** - [Capucom] (2022)
+* **Curso  de ingles intermedio** - English Learning Center (2023)
 
 ---
 
 ## ⭐ Proyectos Destacados
 
-### 1. [Nombre del Proyecto Interno/Profesional]
-> *Tipo: Interno | Tecnologías Clave:* [Ej: Java, SQL Server, Android]
-> **Descripción:** [Describe brevemente el problema que resolvía y tu contribución, ej: Implementación de un módulo de seguridad biométrica en la aplicación corporativa, mejorando el acceso en un 20%].
-> [Link al Repositorio (Si es público)]
+### 1. Aplicasion de rutas android
+> *Tipo: Interno | Tecnologías Clave:* Kotlin, Firebase, SQL server.
+> **Descripción:** [La aplicacion buscaba rutas de buses del centro de san salvador y interdepartamentales]
 
-### 2. [Nombre del Proyecto Personal/Externo]
-> *Tipo: Personal | Tecnologías Clave:* [Ej: Node.js, Express, MongoDB, Vue.js]
-> **Descripción:** [Describe tu proyecto personal más relevante, ej: Creación de un sistema de gestión de tareas "Kanban style" para freelance, con autenticación JWT].
-> [Link al Repositorio] | [Link a la Demo en Vivo (si existe)]
-
----
 
 ## 📬 Contacto y Redes
 
 | Red | Enlace / Identificador |
 | :--- | :--- |
-| **LinkedIn** | <a href="https://linkedin.com/in/samuel antonio anzora castellanos" target="blank">Samuel Antonio Anzora Castellanos</a> |
-| **GitHub (Personal)** | [Tu Link a tu Perfil de GitHub] |
-| **Correo Personal** | [Tu Correo Electrónico Personal] |
-| **Correo Institucional** | [Tu Correo Electrónico Institucional (Si tienes)] |
-| **Otra Red** | [Link a tu Portafolio en GitHub Pages, si lo creaste (ej: samuelanzora.github.io)] |
+| **LinkedIn** | <a https://www.linkedin.com/in/samuel-antonio-anzora-castellanos-4255aa364/" target="blank">Samuel Antonio Anzora Castellanos</a> |
+| **GitHub (Personal)** | [https://github.com/samuelanzora363823] |
+| **Correo Personal** | [samuelanzora98@gmail.com] |
+| **Correo Institucional** | [00363823@uca.edu.sv] |
+| **Portfolio** | [https://anzora98.github.io/#/] 
 
 <p align="center">
     ¡Gracias por visitar! Siempre estoy abierto a conectar y colaborar.
